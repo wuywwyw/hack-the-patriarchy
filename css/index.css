@@ -1,0 +1,88 @@
+.button-container-div h1{
+        text-align: center;
+        border: 2px solid;
+        width: 355px;
+        position: relative;
+        left: 550px;
+        background-color: whitesmoke
+    
+}
+
+.button-container-div h2{
+    text-align: center;
+        width: 450px;
+        position: relative;
+        left: 500px;
+       color: black
+}
+
+.anybutton {
+    top:25%;
+    left:35%;
+    width:200px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    background: orange; 
+    }
+
+.anybutton1 {
+        top:25%;
+        left:55%;
+        width:200px;
+        height:100px;
+        position: absolute;
+        z-index: 2;
+        background: orange; 
+ }
+    
+ .anybutton2 {
+    top:45%;
+    left:35%;
+    width:200px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    background: orange; 
+}
+
+.anybutton3 {
+    top:45%;
+    left:55%;
+    width:200px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    background: orange; 
+}
+
+.anybutton4 {
+    top:65%;
+    left:35%;
+    width:200px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    background: orange; 
+}
+
+.anybutton5 {
+    top:65%;
+    left:55%;
+    width:200px;
+    height:100px;
+    position: absolute;
+    z-index: 2;
+    background: orange; 
+}
+
+.container {
+    text-align: center;
+    height: 100vh;
+  
+}
+body{
+    background-image: url("https://www.heart.org/-/media/Images/News/2021/March-2021/0308WomensHealthResearch_SC.jpg");
+    background-size: cover;
+    background-position: center;
+}
