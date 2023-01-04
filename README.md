@@ -12,11 +12,21 @@
 
 
 <h2 id="aim"><b> Aim </b></h2>
-
 <p>
 <ol>
 	<li>Gamification in aiding learning process by making it more interactive and engaging. </li>
 	<li>Create a simple and user-friendly interface for users across regions with varying levels of technical skillset. </li>
-	
 </ol>
 </p>
+
+
+
+
+<h2 id="technology"><b> Tehcnology </b></h2>
+<p>We utilized web development tools including HTML5, CSS3, JavaScript to incorporate multiple features that would enable players to actively participate in quizzes and help test their understanding and engage in future learning. If the players get the wrong answer, a window will pop up to give explanation. </p>
+
+
+
+
+<h2 id="Improvement"><b> Improvement </b></h2>
+<p>A conversational chatbot would be a great function that can answer players’ questions. Moreover, a learning community would engage players to create a profile to track their learning progress, set goals, and share their progress with peers. </p>
