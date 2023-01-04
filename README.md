@@ -1,6 +1,6 @@
 
 <p align="center"> 
-	<b><a href="#task">hack-the-patriarchy</a></b>
+	<b> Hack the Patriarchy </b>
 
 
 <h2 id="background"><b> Background </b></h2>
