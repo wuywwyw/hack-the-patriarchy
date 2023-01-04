@@ -1,8 +1,4 @@
 
-<p align="center"> 
-	<b> Hack the Patriarchy </b>
-
-
 <h2 id="background"><b> Background </b></h2>
 <p>Women’s health is a vital part of a well-rounded education but often be ignored form time to time especially in developing countries. This leads to the misleading assumptions and lack of awareness in the society and such that youngsters, especially girls, don’t have a clear understanding of themselves. Also, many find it difficult to share their experiences and express their concerns. </p>
 
